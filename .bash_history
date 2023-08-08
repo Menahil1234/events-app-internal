@@ -23,3 +23,13 @@ git config --global user.email "merauf@deloitte.com"
 git config --global user.name "menahil1234"
 Verify with: git config --global --list
 git config --global --list
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Menahil1234/events-app-internal.git
+git push -u origin main 
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Menahil1234/events-app-external.git
+git push -u origin main 
