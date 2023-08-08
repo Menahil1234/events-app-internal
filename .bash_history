@@ -33,3 +33,10 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/Menahil1234/events-app-external.git
 git push -u origin main 
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Menahil1234/events-app-internal.git
+git push -u origin main 
+Menahil1234
+Menahil1234
